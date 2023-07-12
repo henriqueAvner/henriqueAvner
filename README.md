@@ -4,7 +4,7 @@
 - 🌱 Estudante da TRYBE, no momento estou aprendendo JavaScript
 - 📫 Contate-me por: avnerhdpb@gmail.com
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Formei em técnico em informática em 2016, a maioria das coisas que vejo hoje no curso, me remetem um pouco a época, então, estou em um constante sentimento de nostalgia!
+- ⚡ Fun fact: Formei em técnico em informática em 2016, fui para a área da biologia / saúde, e no momento estou em transição de carreira, de volta a tecnologia!
 
 <div>
   <img height='180em' src='https://github-readme-stats.vercel.app/api?username=henriqueAvner&show_icons=true&theme=merko' />
