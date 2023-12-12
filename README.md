@@ -1,7 +1,7 @@
 ### Saudações! Me chamo Avner Henrique.
 
 - 🔭 No momento não trabalho, apenas adquirindo conhecimento e evoluindo o mesmo!
-- 🌱 Estudante da TRYBE, no momento estou em estudo constante em Front-end
+- 🌱 Estudante da TRYBE, no momento estou em estudo constante para me tornar um desenvolvedor Full-Stack!
 - 📫 Contate-me por: avnerhdpb@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Formei em técnico em informática em 2016, fui para a área da biologia / saúde, e no momento estou em transição de carreira, de volta a tecnologia!
