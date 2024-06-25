@@ -16,6 +16,7 @@
     <h4>Linguagens</h4>
     <img title="JavaScript" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
     <img title="TypeScript" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+    <img titl="Csharp" alt="csharp" height="45" width="45" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"/>
   </div>
   <div>
     <h4>Desenvolvimento Front-End</h4>
