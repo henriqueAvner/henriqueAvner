@@ -1,7 +1,7 @@
 ### Saudações! Me chamo Avner Henrique.
 
 - 🔭 No momento na busca da minha oportunidade como desenvolvedor de software!
-- 🌱 Possuo conhecimento em Node.js, Sequelize, Express, Docker, TypeScript, MySQL, além de conhecimentos como Metodologias Ágeis, Scrum e Kanban. E atualmente, estou aprendendo sobre Python.
+- 🌱 Possuo conhecimento em .NET, Entity Framework, xUnit,Node.js, Sequelize, Express, Docker, TypeScript, MySQL e Python, além de conhecimentos como Metodologias Ágeis, Scrum e Kanban.
 - 📫 Contate-me por: avnerhdpb@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Formei em técnico em informática em 2016, fui para a área da biologia / saúde, e no momento estou em transição de carreira, de volta a tecnologia!
