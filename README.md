@@ -1,10 +1,10 @@
 ### Saudações! Me chamo Avner Henrique.
 
-- 🔭 No momento na busca da minha oportunidade como desenvolvedor de software!
+- 🔭 Sou RPA Developer pela empresa BeeLegal!
 - 🌱 Possuo conhecimento em .NET, Entity Framework, xUnit,Node.js, Sequelize, Express, Docker, TypeScript, MySQL e Python, além de conhecimentos como Metodologias Ágeis, Scrum e Kanban.
 - 📫 Contate-me por: avnerhdpb@gmail.com
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Formei em técnico em informática em 2016, fui para a área da biologia / saúde, e no momento estou em transição de carreira, de volta a tecnologia!
+- ⚡ Fun fact: Formei em técnico em informática em 2016, fui para a área da saúde, e em 2023 resolvi voltar para a área da tecnologia!
 
 <div>
   <img height='180em' src='https://github-readme-stats.vercel.app/api?username=henriqueAvner&show_icons=true&theme=merko' />
