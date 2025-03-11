@@ -1,7 +1,8 @@
 ### Saudações! Me chamo Avner Henrique.
 
-- 🔭 Sou RPA Developer pela empresa BeeLegal!
-- 🌱 Possuo conhecimento em .NET, Entity Framework, xUnit,Node.js, Sequelize, Express, Docker, TypeScript, MySQL e Python, além de conhecimentos como Metodologias Ágeis, Scrum e Kanban.
+- 🔭 Sou Desenvolvedor Back-End pela empresa BeeLegal!
+- :computer: Atualmente faço Engenharia de Software pela Estácio.
+- 🌱 Possuo conhecimento em .NET, Entity Framework, xUnit,Node.js, Sequelize, Express, Docker, TypeScript, MySQL e Python, RPA além de conhecimentos como Metodologias Ágeis, Scrum e Kanban.
 - 📫 Contate-me por: avnerhdpb@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Formei em técnico em informática em 2016, fui para a área da saúde, e em 2023 resolvi voltar para a área da tecnologia!
