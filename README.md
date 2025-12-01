@@ -1,6 +1,6 @@
 ### Saudações! Me chamo Avner Henrique.
 
-- 🔭 Sou Desenvolvedor Full-Stack pela empresa BeeLegal!
+- 🔭 Desenvolvedor Full-Stack
 - :computer: Atualmente faço Engenharia de Software pela Estácio.
 - 🌱 Possuo conhecimento em .NET, Entity Framework,Node.js, Nest.js, React.js, Docker, TypeScript, MySQL, RPA além de conhecimentos como Metodologias Ágeis, Scrum e Kanban.
 - 📫 Contate-me por: avnerhdpb@gmail.com
