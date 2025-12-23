@@ -6,10 +6,6 @@
 - 📫 Contate-me por: avnerhdpb@gmail.com
 - ⚡ Fun fact: Formei em técnico em informática em 2016, fui para a área da saúde, e em 2023 resolvi voltar para a área da tecnologia!
 
-<div>
-  <img height='180em' src='https://github-readme-stats.vercel.app/api?username=henriqueAvner&show_icons=true&theme=merko' />
-  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueAvner&show_icons=true&theme=merko'/>
-  </div>
   <div>
   <h2>🛠️ Minhas habilidades</h2>
   <div>
